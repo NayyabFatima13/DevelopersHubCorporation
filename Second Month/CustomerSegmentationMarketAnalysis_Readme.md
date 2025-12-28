@@ -75,11 +75,11 @@ The project includes various visualizations:
 | 4 | High Rollers | Middle-aged, high income & spending | 21 | Most valuable, luxury seekers |
 
 ## 📝 Key Findings
-- 1. 5 distinct customer segments were identified with unique characteristics
-- 2. Income and spending score are not linearly correlated
-- 3. Young customers show high engagement despite lower income
-- 4. Affluent customers are divided into high and low spenders
-- 5. Personalized marketing can significantly improve ROI
+1. 5 distinct customer segments were identified with unique characteristics
+2. Income and spending score are not linearly correlated
+3. Young customers show high engagement despite lower income
+4. Affluent customers are divided into high and low spenders
+5. Personalized marketing can significantly improve ROI
 
 ## 💡 Marketing Strategies
 
