@@ -67,9 +67,13 @@ Portuguese bank's telemarketing campaigns have low conversion rates (only 11% of
 ## 🔍 Key Insights
 **Top 5 Predictors of Subscription:**
 **1.Call Duration** - Longer calls significantly increase likelihood
+
 **2.Euribor 3 Month Rate** - Economic indicator strongly influences decisions
+
 **3.Number of Employees** - Employment rate correlation
+
 **4.Age** - Older customers more likely to subscribe
+
 **5.Previous Campaign Outcome** - Past success predicts future success
 
 **Customer Segments Analysis:**
